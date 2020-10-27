@@ -36,7 +36,9 @@
 * [DownZemAll](https://github.com/setvisible/DownZemAll):DownZemAll! is a download manager for Windows, Mac OS X and Linux
 * [hotspot](https://github.com/KDAB/hotspot):The Linux perf GUI for performance analysis.
 * [wireshark](https://github.com/wireshark/wireshark):
-* [zeal](https://github.com/zealdocs/zeal):Offline documentation browser inspired by Dash
+* [zeal](https://github.com/zealdocs/zeal)Offline documentation browser inspired by Dash
+* [PyQt5-Apps](https://github.com/taseikyo/PyQt5-Apps):Some useful apps based on PyQt5. | 谷歌翻译、bilibili视频下载、华科电费查询、猫耳FM音频下载、无损音乐下载、华科图书馆查询、词云生成器etc.
+* [QWidgetDemo](https://github.com/feiyangqingyun/QWidgetDemo):Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用，拒绝打赏和捐赠，欢迎留言评论！
 
 ## Player
 * [strawberry](https://github.com/strawberrymusicplayer/strawberry):Strawberry Music Player
@@ -53,6 +55,7 @@
 * [liteide](https://github.com/visualfc/liteide):LiteIDE is a simple, open source, cross-platform Go IDE.
 * [spyder](https://github.com/spyder-ide/spyder):Official repository for Spyder - The Scientific Python Development Environment
 * [edb-debugger](https://github.com/eteran/edb-debugger):edb is a cross platform AArch32/x86/x86-64 debugger.
+* [vnote](https://github.com/tamlok/vnote):A note-taking application that knows programmers and Markdown better.
 
 ## terminal
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term):A good looking terminal emulator which mimics the old cathode display
