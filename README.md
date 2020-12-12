@@ -44,6 +44,10 @@
 * [strawberry](https://github.com/strawberrymusicplayer/strawberry):Strawberry Music Player
 * [doubanfm-qt](https://github.com/zonyitoo/doubanfm-qt):A DoubanFM client
 
+## Video Editor
+* [openshot](https://github.com/OpenShot/openshot-qt):OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
+* [shotcut](https://github.com/mltframework/shotcut):cross-platform (Qt), open-source (GPLv3) video editor
+
 
 ## DBM GUI
 * [sqlitestudio](https://github.com/pawelsalawa/sqlitestudio):A free, open source, multi-platform SQLite database manager.
@@ -56,6 +60,8 @@
 * [spyder](https://github.com/spyder-ide/spyder):Official repository for Spyder - The Scientific Python Development Environment
 * [edb-debugger](https://github.com/eteran/edb-debugger):edb is a cross platform AArch32/x86/x86-64 debugger.
 * [vnote](https://github.com/tamlok/vnote):A note-taking application that knows programmers and Markdown better.
+* [fhex](https://github.com/echo-devim/fhex):A Full-Featured HexEditor compatible with Linux/Windows/MacOS
+* [kdiff3](https://github.com/KDE/kdiff3):Utility for comparing and merging files and directories
 
 ## terminal
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term):A good looking terminal emulator which mimics the old cathode display
