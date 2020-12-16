@@ -10,6 +10,7 @@
 * [Qt for Python Tutorials](https://doc.qt.io/qtforpython/tutorials/index.html)
 * [pyside2-examples](https://github.com/pyside/pyside2-examples)
 * [Qt Examples And Tutorials](https://doc.qt.io/qt-5/qtexamplesandtutorials.html)
+* [《Qt 学习之路 2》](https://www.devbean.net/2012/08/qt-study-road-2-catelog/)
 
 ## QML
 * [qmlbook](https://github.com/qmlbook/qmlbook):The source code for the upcoming qml book
@@ -39,6 +40,7 @@
 * [zeal](https://github.com/zealdocs/zeal)Offline documentation browser inspired by Dash
 * [PyQt5-Apps](https://github.com/taseikyo/PyQt5-Apps):Some useful apps based on PyQt5. | 谷歌翻译、bilibili视频下载、华科电费查询、猫耳FM音频下载、无损音乐下载、华科图书馆查询、词云生成器etc.
 * [QWidgetDemo](https://github.com/feiyangqingyun/QWidgetDemo):Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用，拒绝打赏和捐赠，欢迎留言评论！
+* [duckstation](https://github.com/stenzek/duckstation):Fast PlayStation 1 emulator for PC and Android
 
 ## Player
 * [strawberry](https://github.com/strawberrymusicplayer/strawberry):Strawberry Music Player
