@@ -2,6 +2,7 @@
 
 * [Tutorial](#Tutorial)
 * [Manual](#Manual)
+* [QSS](#QSS)
 * [RelateProject](#RelateProject)
 * [OpensourceApp](#OpensourceApp)
 
@@ -23,6 +24,21 @@
 # Manual
 ## Qt Designer
 * [Qt Designer Manual](https://doc.qt.io/qt-5/qtdesigner-manual.html)
+
+# QSS
+## editor
+* [QssStylesheetEditor](https://github.com/hustlei/QssStylesheetEditor):Editor for qt stylesheet (qss). Real-time preview, and user can define varibles in qss.
+* [qsseditor](https://github.com/smoked-herring/qsseditor):Cross-platform application to edit and preview Qt style sheets (QSS).
+
+## Tutorial
+* [Qt_qss](https://github.com/cocowts/Qt_qss):qss 基础学习资料
+
+## qss theme(templates)
+* [QDarkStyleSheet](https://github.com/ColinDuquesnoy/QDarkStyleSheet):A dark style sheet for QtWidgets application
+* [QSS](https://github.com/GTRONICK/QSS):QT Style Sheets templates
+
+## Tools
+* [qt-material-widgets](https://github.com/laserpants/qt-material-widgets):Qt widgets-based implementation of the Material Design specification.
 
 # RelateProject
 * [qtmodern](https://github.com/gmarull/qtmodern):PyQt/PySide Widgets Modern User Interface
