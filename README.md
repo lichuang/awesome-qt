@@ -12,6 +12,8 @@
 * [pyside2-examples](https://github.com/pyside/pyside2-examples)
 * [Qt Examples And Tutorials](https://doc.qt.io/qt-5/qtexamplesandtutorials.html)
 * [《Qt 学习之路 2》](https://www.devbean.net/2012/08/qt-study-road-2-catelog/)
+* [PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5](https://github.com/PyQt5/PyQt):About
+PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
 
 ## QML
 * [qmlbook](https://github.com/qmlbook/qmlbook):The source code for the upcoming qml book
@@ -29,6 +31,7 @@
 ## editor
 * [QssStylesheetEditor](https://github.com/hustlei/QssStylesheetEditor):Editor for qt stylesheet (qss). Real-time preview, and user can define varibles in qss.
 * [qsseditor](https://github.com/smoked-herring/qsseditor):Cross-platform application to edit and preview Qt style sheets (QSS).
+* [qtsass](https://github.com/spyder-ide/qtsass):Compile SASS files to Qt stylesheets
 
 ## Tutorial
 * [Qt_qss](https://github.com/cocowts/Qt_qss):qss 基础学习资料
@@ -61,6 +64,7 @@
 ## Player
 * [strawberry](https://github.com/strawberrymusicplayer/strawberry):Strawberry Music Player
 * [doubanfm-qt](https://github.com/zonyitoo/doubanfm-qt):A DoubanFM client
+* [moonplayer](https://github.com/coslyk/moonplayer):Video player that can play online videos from youtube, bilibili etc.
 
 ## Video Editor
 * [openshot](https://github.com/OpenShot/openshot-qt):OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
@@ -80,6 +84,7 @@
 * [vnote](https://github.com/tamlok/vnote):A note-taking application that knows programmers and Markdown better.
 * [fhex](https://github.com/echo-devim/fhex):A Full-Featured HexEditor compatible with Linux/Windows/MacOS
 * [kdiff3](https://github.com/KDE/kdiff3):Utility for comparing and merging files and directories
+* [qmarkdowntextedit](https://github.com/pbek/qmarkdowntextedit):A C++ Qt QPlainTextEdit widget with markdown highlighting support and a lot of other extras
 
 ## terminal
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term):A good looking terminal emulator which mimics the old cathode display
