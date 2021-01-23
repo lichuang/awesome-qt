@@ -14,6 +14,7 @@
 * [《Qt 学习之路 2》](https://www.devbean.net/2012/08/qt-study-road-2-catelog/)
 * [PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5](https://github.com/PyQt5/PyQt):About
 PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
+* [15-minute-apps](https://github.com/learnpyqt/15-minute-apps):15 minute (small) desktop apps built with PyQt
 
 ## QML
 * [qmlbook](https://github.com/qmlbook/qmlbook):The source code for the upcoming qml book
@@ -60,11 +61,13 @@ PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
 * [PyQt5-Apps](https://github.com/taseikyo/PyQt5-Apps):Some useful apps based on PyQt5. | 谷歌翻译、bilibili视频下载、华科电费查询、猫耳FM音频下载、无损音乐下载、华科图书馆查询、词云生成器etc.
 * [QWidgetDemo](https://github.com/feiyangqingyun/QWidgetDemo):Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用，拒绝打赏和捐赠，欢迎留言评论！
 * [duckstation](https://github.com/stenzek/duckstation):Fast PlayStation 1 emulator for PC and Android
+* [SARibbon](https://github.com/czyt1988/SARibbon):Ribbon Control on Qt
 
 ## Player
 * [strawberry](https://github.com/strawberrymusicplayer/strawberry):Strawberry Music Player
 * [doubanfm-qt](https://github.com/zonyitoo/doubanfm-qt):A DoubanFM client
 * [moonplayer](https://github.com/coslyk/moonplayer):Video player that can play online videos from youtube, bilibili etc.
+[obs-studio](https://github.com/obsproject/obs-studio):OBS Studio - Free and open source software for live streaming and screen recording
 
 ## Video Editor
 * [openshot](https://github.com/OpenShot/openshot-qt):OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
@@ -85,6 +88,7 @@ PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
 * [fhex](https://github.com/echo-devim/fhex):A Full-Featured HexEditor compatible with Linux/Windows/MacOS
 * [kdiff3](https://github.com/KDE/kdiff3):Utility for comparing and merging files and directories
 * [qmarkdowntextedit](https://github.com/pbek/qmarkdowntextedit):A C++ Qt QPlainTextEdit widget with markdown highlighting support and a lot of other extras
+* [novelWriter](https://github.com/vkbo/novelWriter):novelWriter is an open source markdown-like plain text editor designed for writing and organising novels. Written with Python 3 (3.6+) and Qt 5 (5.3+) for cross-platform deployment.
 
 ## terminal
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term):A good looking terminal emulator which mimics the old cathode display
