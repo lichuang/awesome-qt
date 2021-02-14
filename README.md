@@ -64,6 +64,9 @@ PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
 * [SARibbon](https://github.com/czyt1988/SARibbon):Ribbon Control on Qt
 * [QCandyUi](https://github.com/shuoGG1239/QCandyUi):方便快速地美化pyQt应用
 * [ColorCatcher](https://github.com/shuoGG1239/ColorCatcher):取色器
+* [UN-GCPDS](https://github.com/UN-GCPDS/qt-material):qt-material: Material inspired stylesheet for PySide6, PySide2 and PyQt5
+* [Lector](https://github.com/BasioMeusPuga/Lector):Qt based ebook reader
+* [flameshot](https://github.com/flameshot-org/flameshot):Powerful yet simple to use screenshot software
 
 ## Player
 * [strawberry](https://github.com/strawberrymusicplayer/strawberry):Strawberry Music Player
