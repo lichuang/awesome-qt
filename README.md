@@ -37,12 +37,6 @@ PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
 ## Tutorial
 * [Qt_qss](https://github.com/cocowts/Qt_qss):qss 基础学习资料
 
-## qss theme(templates)
-* [QDarkStyleSheet](https://github.com/ColinDuquesnoy/QDarkStyleSheet):A dark style sheet for QtWidgets application
-* [QSS](https://github.com/GTRONICK/QSS):QT Style Sheets templates
-
-## Tools
-* [qt-material-widgets](https://github.com/laserpants/qt-material-widgets):Qt widgets-based implementation of the Material Design specification.
 
 # RelateProject
 * [qtmodern](https://github.com/gmarull/qtmodern):PyQt/PySide Widgets Modern User Interface
@@ -52,6 +46,13 @@ PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
 * [Qt.py](https://github.com/mottosso/Qt.py):Minimal Python 2 & 3 shim around all Qt bindings - PySide, PySide2, PyQt4 and PyQt5.
 
 # OpensourceApp
+## style&&widget
+* [UN-GCPDS/qt-material](https://github.com/UN-GCPDS/qt-material):Material inspired stylesheet for PySide6, PySide2 and PyQt5
+* [laserpants/qt-material-widgets: Qt widgets-based implementation of the Material Design specification.](https://github.com/laserpants/qt-material-widgets)
+* [QDarkStyleSheet](https://github.com/ColinDuquesnoy/QDarkStyleSheet):A dark style sheet for QtWidgets application
+* [QSS](https://github.com/GTRONICK/QSS):QT Style Sheets templates
+* [Jorgen-VikingGod/Qt-Frameless-Window-DarkStyle: simple MainWindow class implementation with frameless window and custom dark style. It adds also support for titlebar and buttons (minimize, maximize, close)](https://github.com/Jorgen-VikingGod/Qt-Frameless-Window-DarkStyle)
+
 ## Others
 * [albert](https://github.com/albertlauncher/albert):A fast and flexible keyboard launcher
 * [DownZemAll](https://github.com/setvisible/DownZemAll):DownZemAll! is a download manager for Windows, Mac OS X and Linux
@@ -72,7 +73,10 @@ PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
 * [strawberry](https://github.com/strawberrymusicplayer/strawberry):Strawberry Music Player
 * [doubanfm-qt](https://github.com/zonyitoo/doubanfm-qt):A DoubanFM client
 * [moonplayer](https://github.com/coslyk/moonplayer):Video player that can play online videos from youtube, bilibili etc.
-[obs-studio](https://github.com/obsproject/obs-studio):OBS Studio - Free and open source software for live streaming and screen recording
+* [obs-studio](https://github.com/obsproject/obs-studio):OBS Studio - Free and open source software for live streaming and screen recording
+* [easymodo/qimgv: Qt5 image viewer with optional video support](https://github.com/easymodo/qimgv)
+* [dragondjf/QMusic: QMusic是基于python + PyQT5 + QML的一款本地音乐播放器，旨在提升Linux下更好的音乐播放体验](https://github.com/dragondjf/QMusic)
+* [easymodo/qimgv: Qt5 image viewer with optional video support](https://github.com/easymodo/qimgv)
 
 ## Video Editor
 * [openshot](https://github.com/OpenShot/openshot-qt):OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
