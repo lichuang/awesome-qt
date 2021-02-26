@@ -37,6 +37,8 @@ PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
 ## Tutorial
 * [Qt_qss](https://github.com/cocowts/Qt_qss):qss 基础学习资料
 
+# QML
+* [g-fb/haruna: Open source video player built with Qt/QML and libmpv.](https://github.com/g-fb/haruna)
 
 # RelateProject
 * [qtmodern](https://github.com/gmarull/qtmodern):PyQt/PySide Widgets Modern User Interface
@@ -77,6 +79,7 @@ PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
 * [easymodo/qimgv: Qt5 image viewer with optional video support](https://github.com/easymodo/qimgv)
 * [dragondjf/QMusic: QMusic是基于python + PyQT5 + QML的一款本地音乐播放器，旨在提升Linux下更好的音乐播放体验](https://github.com/dragondjf/QMusic)
 * [easymodo/qimgv: Qt5 image viewer with optional video support](https://github.com/easymodo/qimgv)
+* [Protostars/KikoPlay: KikoPlay - NOT ONLY A Full-Featured Danmu Player 不仅仅是全功能弹幕播放器](https://github.com/Protostars/KikoPlay)
 
 ## Video Editor
 * [openshot](https://github.com/OpenShot/openshot-qt):OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
@@ -98,6 +101,8 @@ PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
 * [kdiff3](https://github.com/KDE/kdiff3):Utility for comparing and merging files and directories
 * [qmarkdowntextedit](https://github.com/pbek/qmarkdowntextedit):A C++ Qt QPlainTextEdit widget with markdown highlighting support and a lot of other extras
 * [novelWriter](https://github.com/vkbo/novelWriter):novelWriter is an open source markdown-like plain text editor designed for writing and organising novels. Written with Python 3 (3.6+) and Qt 5 (5.3+) for cross-platform deployment.
+* [CrazyCxl/markdown-editor: A qml markdown editor](https://github.com/CrazyCxl/markdown-editor)
+* [ChungZH/notepanda: 📃 A simple cross-platform notepad. Based on Qt and C++.](https://github.com/ChungZH/notepanda)
 
 ## terminal
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term):A good looking terminal emulator which mimics the old cathode display
